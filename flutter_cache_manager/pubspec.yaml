@@ -17,7 +17,7 @@ dependencies:
   pedantic: ^1.8.0+1
   clock: ^1.0.1
   file: ">=6.0.0 <7.0.0"
-  rxdart: '>=0.26.0 <1.0.0'
+  rxdart: ^0.26.0
   image: '>=3.0.1 <4.0.0'
   
 dev_dependencies:
